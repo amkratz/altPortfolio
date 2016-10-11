@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://amkratz.github.io/altPortfolio/_pages/projects.html
+  - title: "Portfolio"
+    url: /portfolio/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Contact"
+    url: /pages/contact/
+    
+  - title: "Resume"
+    url: /pages/resume/
 
 portfolio:
   - title: "Fizz Buzz Samples"
