@@ -8,7 +8,7 @@ sidebar:
   - title: "Fizz Buzz Samples"
     url: fizzbuzz-samples.md
     text: "Fizz Buzz game in different languages"
-permalink: /portfolio/
+permalink: /portfolio/mocha-messenger
 ---
 
 A fun project, I wanted to make a program using Java to try and test myself a bit. It's a Client and Server program that can
