@@ -5,8 +5,7 @@ header:
   image: foo-bar-identity.jpg
   teaser: foo-bar-identity-th.jpg
 sidebar:
-  - title: "Mocha Messenger"
-    text: "Minimal chat client/server in Java"
+  nav: "portfolio"
 permalink: /portfolio/fizzbuzz-samples
 ---
 
