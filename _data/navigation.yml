@@ -5,3 +5,14 @@ main:
 
   - title: "Sample Navigation Link 2"
     url: /
+
+portfolio:
+  - title: "Fizz Buzz Samples"
+      url: fizzbuzz-samples.md
+    text: "Fizz Buzz games in different languages."
+  - title: "Mocha Messenger"
+    url: mocha-messenger.md
+    text: "A minimal, Java based chat messenger."
+  - title: "Weightlifting Competition"
+    url: weightlifting-competition.md
+    text: "Simulating a weightlifting competition in Assembly."
