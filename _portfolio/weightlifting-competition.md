@@ -9,6 +9,6 @@ sidebar:
 permalink: /portfolio/weightlifting-competition
 ---
 
-(https://www.github.com/amkratz/Weightlifting-Competition "GitHub Repository")
+[GitHub Repository](https://www.github.com/amkratz/Weightlifting-Competition)
 This was a project for class that I thought was very interesting. It is a simple program in Assembly that simulates a
 weightlifting competition and declares a winner.
