@@ -8,6 +8,7 @@ sidebar:
   - title: "Role"
     url: fizzbuzz-samples.md
     text: "FizzBuzz game in different languages"
+permalink: /portfolio/
 ---
 
 A fun project, I wanted to make a program using Java to try and test myself a bit. It's a Client and Server program that can
