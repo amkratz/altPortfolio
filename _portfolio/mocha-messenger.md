@@ -5,9 +5,7 @@ header:
   image: foo-bar-identity.jpg
   teaser: foo-bar-identity-th.jpg
 sidebar:
-  - title: "Fizz Buzz Samples"
-    url: fizzbuzz-samples.md
-    text: "Fizz Buzz game in different languages"
+  nav: "portfolio"
 permalink: /portfolio/mocha-messenger
 ---
 
