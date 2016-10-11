@@ -5,9 +5,9 @@ header:
   image: foo-bar-identity.jpg
   teaser: foo-bar-identity-th.jpg
 sidebar:
-  - title: "Role"
+  - title: "Fizz Buzz Samples"
     url: fizzbuzz-samples.md
-    text: "FizzBuzz game in different languages"
+    text: "Fizz Buzz game in different languages"
 permalink: /portfolio/
 ---
 
