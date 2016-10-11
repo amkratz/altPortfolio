@@ -8,7 +8,7 @@ main:
 
 portfolio:
   - title: "Fizz Buzz Samples"
-      url: fizzbuzz-samples.md
+    url: fizzbuzz-samples.md
     text: "Fizz Buzz games in different languages."
   - title: "Mocha Messenger"
     url: mocha-messenger.md
