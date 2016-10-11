@@ -7,7 +7,7 @@ header:
 sidebar:
   - title: "Mocha Messenger"
     text: "Minimal chat client/server in Java"
-permalink: /portfolio/
+permalink: /portfolio/fizzbuzz-samples
 ---
 
 You might want to know if I can code at all, or maybe with a specific language. These are are quick little programs I've written to just run through a common FizzBuzz Game, in multiple languages:
