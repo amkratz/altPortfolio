@@ -8,11 +8,11 @@ main:
 
 portfolio:
   - title: "Fizz Buzz Samples"
-    url: /fizzbuzz-samples.md
+    url: /fizzbuzz-samples
     text: "Fizz Buzz games in different languages."
   - title: "Mocha Messenger"
-    url: /mocha-messenger.md
+    url: /mocha-messenger
     text: "A minimal, Java based chat messenger."
   - title: "Weightlifting Competition"
-    url: /weightlifting-competition.md
+    url: /weightlifting-competition
     text: "Simulating a weightlifting competition in Assembly."
