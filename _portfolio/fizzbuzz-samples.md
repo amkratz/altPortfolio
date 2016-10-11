@@ -6,7 +6,6 @@ header:
   teaser: foo-bar-identity-th.jpg
 sidebar:
   - title: "Mocha Messenger"
-    url: mocha-messenger.md
     text: "Minimal chat client/server in Java"
 permalink: /portfolio/
 ---
