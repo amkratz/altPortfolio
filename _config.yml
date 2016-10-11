@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en"
 title                    : "Aaron Kratz Software Designer"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Aaron Kratz"
-description              : "A place for me to share about myself and my projects."
+description              : "A place for me to share about myself as a software developer and my projects I am working on."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
+  name             : "Aaron Kratz"
+  avatar           : "https://avatars1.githubusercontent.com/u/22185186?v=3&u=10e3f7e9fa011e04380480af08893ba7b9e4b668&s=140"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Phoenix, Arizona"
+  email            : "akratz2@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https:www/facebook.com/aaron.kratz1"
   foursquare       :
-  github           :
+  github           : "https://www.github.com/amkratz"
   google_plus      :
   keybase          :
   instagram        :
