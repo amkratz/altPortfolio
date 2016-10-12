@@ -9,6 +9,8 @@ sidebar:
 nav: "portfolio"
 permalink: /portfolio/
 ---
+{% include nav_list nav=page.nav %}
+
 
 ## [Mocha Messenger - Java]( {{ base_path }}/altPortfolio/portfolio/mocha-messenger/)
 A fun project, I wanted to make a program using Java to try and test myself a bit. It's a Client and Server program 
