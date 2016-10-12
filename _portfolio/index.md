@@ -18,7 +18,7 @@ working on changing the way it functions to allow for multiple clients and chang
 This was a project for class that I thought was very interesting. It is a simple program in Assembly that simulates a 
 weightlifting competition and declares a winner.
 
-## [Fizz Buzz Sample Code](altPortfolio/portfolio/fizzbuzz-samples/)
+## [Fizz Buzz Sample Code](https://amkratz.github.io/altPortfolio/portfolio/fizzbuzz-samples/)
 You might want to know if I can code at all, or maybe with a specific language. These are are quick little programs I've
 written to just run through a common FizzBuzz Game, in multiple languages:
 
