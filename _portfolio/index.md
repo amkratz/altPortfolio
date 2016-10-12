@@ -9,16 +9,16 @@ sidebar:
 permalink: /portfolio/
 ---
 
-## [Mocha Messenger - Java](.../mocha-messenger)
+## [Mocha Messenger - Java]({{base_path}}/portfolio/mocha-messenger)
 A fun project, I wanted to make a program using Java to try and test myself a bit. It's a Client and Server program 
 that can connect to each other and allow multiple clients to send messages to each other over TCP/IP. I am still
 working on changing the way it functions to allow for multiple clients and changing the way messages are sent.
 
-## [Weightlifting Competition - Assembly](.../portfolio/weightlifting-competition)
+## [Weightlifting Competition - Assembly]({{base_path}}/portfolio/weightlifting-competition)
 This was a project for class that I thought was very interesting. It is a simple program in Assembly that simulates a 
 weightlifting competition and declares a winner.
 
-## [Fizz Buzz Sample Code](.../portfolio/fizzbuzz-samples)
+## [Fizz Buzz Sample Code]({{base_path}}/portfolio/fizzbuzz-samples)
 You might want to know if I can code at all, or maybe with a specific language. These are are quick little programs I've
 written to just run through a common FizzBuzz Game, in multiple languages:
 
