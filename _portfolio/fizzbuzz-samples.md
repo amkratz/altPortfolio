@@ -1,6 +1,6 @@
 ---
 title: "Fizz Buzz Samples"
-excerpt: "You might want to know if I can code at all"
+excerpt: "Want to know if I can code whatsoever?"
 header:
   image: foo-bar-identity.jpg
   teaser: foo-bar-identity-th.jpg
