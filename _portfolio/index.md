@@ -13,7 +13,7 @@ permalink: /portfolio/
 {% include base_path %}
 
 
-## [Mocha Messenger - Java](https://www.amkratz.github.io/portfolio/mocha-messenger/)
+## [Mocha Messenger - Java](https://amkratz.github.io/portfolio/mocha-messenger/)
 A fun project, I wanted to make a program using Java to try and test myself a bit. It's a Client and Server program 
 that can connect to each other and allow multiple clients to send messages to each other over TCP/IP. I am still
 working on changing the way it functions to allow for multiple clients and changing the way messages are sent.
@@ -22,7 +22,7 @@ working on changing the way it functions to allow for multiple clients and chang
 This was a project for class that I thought was very interesting. It is a simple program in Assembly that simulates a 
 weightlifting competition and declares a winner.
 
-## [Fizz Buzz Sample Code](https://amkratz.github.io/portfolio/fizzbizz-samples/)
+## [Fizz Buzz Sample Code](https://amkratz.github.io/portfolio/fizzbuzz-samples/)
 You might want to know if I can code at all, or maybe with a specific language. These are are quick little programs I've
 written to just run through a common FizzBuzz Game, in multiple languages:
 
