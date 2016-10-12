@@ -10,6 +10,7 @@ nav: "portfolio"
 permalink: /portfolio/
 ---
 {% include nav_list nav=page.nav %}
+{% include base_path %}
 
 
 ## [Mocha Messenger - Java]( {{ base_path }}/altPortfolio/portfolio/mocha-messenger/)
