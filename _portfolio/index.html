@@ -1,0 +1,16 @@
+---
+title: "Project Portfolio"
+header:
+  image: foo-bar-identity.jpg
+  teaser: foo-bar-identity-th.jpg
+sidebar:
+  nav: "portfolio"
+permalink: /portfolio/
+---
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<p>This is a small variety of projects I've had but the list will be growing quickly.</p>
