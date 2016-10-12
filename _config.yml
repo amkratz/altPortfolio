@@ -12,7 +12,7 @@ title_separator          : "|"
 name                     : "Aaron Kratz"
 description              : "A place for me to share about myself as a software developer and my projects I am working on."
 url                      : https://amkratz.github.io
-baseurl                  : "/altPortfolio"
+baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
