@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: /portfolio/home
+    url: /portfolio/
 
   - title: "Contact"
     url: /pages/contact/
