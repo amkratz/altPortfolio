@@ -6,7 +6,7 @@ header:
   teaser: foo-bar-identity-th.jpg
 sidebar:
   nav: "portfolio"
-permalink: /portfolio/main
+permalink: /portfolio/
 ---
 
 ## [Mocha Messenger - Java]( {{ base_path }}/altPortfolio/portfolio/mocha-messenger/)
