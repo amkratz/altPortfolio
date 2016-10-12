@@ -6,6 +6,7 @@ header:
   teaser: foo-bar-identity-th.jpg
 sidebar:
   nav: "portfolio"
+nav: "portfolio"
 permalink: /portfolio/
 ---
 
