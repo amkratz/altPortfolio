@@ -11,7 +11,7 @@ Passionate programmer with strong understanding and love of full-stack developme
 ### Freelance Web Development 2016 - ongoing
 March 2016 - Mag Pharms LLC
 
-Contract to create fully functioning dietary supplement store using WordPress and Woocommerce,
+Contract to create dietary supplement ecommerce website using WordPress and Woocommerce,
 including custom html, css, and Javascript. 
 
 # Summary of Skills
