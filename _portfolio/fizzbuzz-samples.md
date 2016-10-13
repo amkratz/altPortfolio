@@ -1,9 +1,6 @@
 ---
 title: "Fizz Buzz Samples"
 excerpt: "Want to know if I can code whatsoever?"
-header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
 sidebar:
   nav: "portfolio"
 permalink: /portfolio/fizzbuzz-samples
