@@ -11,7 +11,7 @@ main:
 
 portfolio:
   - title: "Portfolio"
-  children:
+    children:
     - title: "Fizz Buzz Samples"
       url: /portfolio/fizzbuzz-samples
       text: "Fizz Buzz games in different languages."
