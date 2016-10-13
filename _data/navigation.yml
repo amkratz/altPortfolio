@@ -10,12 +10,14 @@ main:
     url: /resume/
 
 portfolio:
-  - title: "Fizz Buzz Samples"
-    url: /portfolio/fizzbuzz-samples
-    text: "Fizz Buzz games in different languages."
-  - title: "Mocha Messenger"
-    url: /portfolio/mocha-messenger
-    text: "A minimal, Java based chat messenger."
-  - title: "Weightlifting Competition"
-    url: /portfolio/weightlifting-competition
-    text: "Simulating a weightlifting competition in Assembly."
+  - title: "Portfolio"
+  children:
+    - title: "Fizz Buzz Samples"
+      url: /portfolio/fizzbuzz-samples
+      text: "Fizz Buzz games in different languages."
+    - title: "Mocha Messenger"
+      url: /portfolio/mocha-messenger
+      text: "A minimal, Java based chat messenger."
+    - title: "Weightlifting Competition"
+      url: /portfolio/weightlifting-competition
+      text: "Simulating a weightlifting competition in Assembly."
