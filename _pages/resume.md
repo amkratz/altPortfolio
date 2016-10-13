@@ -1,3 +1,8 @@
+---
+layout: archive
+permalink: /resume/
+author_profile: true
+---
 # Career Focus
 Passionate programmer with strong understanding and love of full-stack development and heavy drive to be successful.
 
