@@ -4,10 +4,10 @@ main:
     url: /portfolio/
 
   - title: "Contact"
-    url: /pages/contact/
+    url: /contact/
     
   - title: "Resume"
-    url: /pages/resume/
+    url: /resume/
 
 portfolio:
   - title: "Fizz Buzz Samples"
