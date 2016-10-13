@@ -37,7 +37,7 @@ Works well alone and in groups
 # Education
 Glendale Community College, Glendale, AZ
 
-* Graduated with Associate&rsquo;s in Science in December 2014
+* Graduated with Associate's in Science in December 2014
 * Coursework focused on Mathematics and Computer Science
 
 # Employment History
