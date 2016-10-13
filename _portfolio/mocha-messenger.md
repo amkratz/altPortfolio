@@ -1,9 +1,6 @@
 ---
 title: "Mocha Messenger in Java"
 excerpt: "A fun project, I wanted to make a program using Java to try and test myself a bit."
-header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
 sidebar:
   nav: "portfolio"
 permalink: /portfolio/mocha-messenger
