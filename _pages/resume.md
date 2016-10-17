@@ -4,11 +4,11 @@ permalink: /resume/
 author_profile: true
 ---
 # Career Focus
-Passionate programmer with strong understanding and love of full-stack development and heavy drive to be successful.
+Passionate programmer with solid understanding and love of full-stack development and strong drive to be successful.
 
 # Professional Experience
 
-### Freelance Web Development 2016 - ongoing
+### Freelance Web Development
 March 2016 - Mag Pharms LLC
 
 Contract to create ecommerce website using WordPress and Woocommerce,
@@ -19,7 +19,7 @@ Proficient programming experience with Java, C++, Ruby, Python
 
 Front-End experience using HTML, CSS, Javascript, WordPress, Jekyll
 
-Great understanding of Object Oriented Programming
+Thorough understanding of Object Oriented Programming
 
 Experience using Git and GitHub
 
@@ -37,7 +37,7 @@ Works well alone and in groups
 # Education
 Glendale Community College, Glendale, AZ
 
-* Graduated with Associate's in Science in December 2014
+* Graduated with Associate's in Science Degree in December 2014
 * Coursework focused on Mathematics and Computer Science
 
 # Employment History
@@ -56,7 +56,7 @@ Oct 2010 to June 2015 - Brookdale Senior Living, Peoria, AZ
 * Maintain logs and input data into computer using Microsoft Excel and Word
 * Communicate with team members continually to provide 24-hour service
 * Provide customer service to residents, guests, and associates
-* Provide computer training and repair services to residents
+* Provide computer training and help with troubleshooting for residents
 
 ### Document Preparation Clerk
 Apr 2010 to Jul 2010 - Vangent, Phoenix, AZ
