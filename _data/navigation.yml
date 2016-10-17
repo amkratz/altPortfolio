@@ -12,6 +12,9 @@ main:
 portfolio:
   - title: "Portfolio"
     children:
+    - title: "EasyFlash"
+      url: /portfolio/easy-flash
+      text: "My Android flashlight app"
     - title: "Fizz Buzz Samples"
       url: /portfolio/fizzbuzz-samples
       text: "Fizz Buzz games in different languages."
