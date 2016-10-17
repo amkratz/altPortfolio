@@ -1,5 +1,5 @@
 ---
-title: "Mocha Messenger in Java"
+title: "EasyFlash Android Flashlight"
 excerpt: "A fun project, I wanted to make a program using Java to try and test myself a bit."
 sidebar:
   nav: "portfolio"
