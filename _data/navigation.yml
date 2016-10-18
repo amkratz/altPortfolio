@@ -12,6 +12,9 @@ main:
 portfolio:
   - title: "Portfolio"
     children:
+    - title: "CSV Parse and Sort"
+      url: /portfolio/csv-parse-sort
+      text: "CSV parse/sort to find message in file"
     - title: "EasyFlash"
       url: /portfolio/easy-flash
       text: "My Android flashlight app"
