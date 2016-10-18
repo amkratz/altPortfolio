@@ -1,5 +1,5 @@
 ---
-title: "CSV Parse and Sort - Python"
+title: "CSV Parse and Sort in Python"
 sidebar:
   nav: "portfolio"
 permalink: /portfolio/csv-parse-sort
