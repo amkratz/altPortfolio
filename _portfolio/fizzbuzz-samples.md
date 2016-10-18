@@ -10,4 +10,5 @@ You might want to know if I can code at all, or maybe with a specific language. 
 
 * Java
 * Python
+* C++
 * More to come...
