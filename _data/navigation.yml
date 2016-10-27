@@ -10,6 +10,10 @@ main:
     url: /resume/
 
 portfolio:
+  - title: "Open Source"
+    children:
+    - title: "Axelrod"
+      url: /portfolio/Axelrod
   - title: "Portfolio"
     children:
     - title: "CSV Parse and Sort"
