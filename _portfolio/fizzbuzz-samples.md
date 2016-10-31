@@ -12,4 +12,5 @@ written to just run through a common FizzBuzz Game, in multiple languages:
 * Java
 * Python
 * C++
+* Javascript
 * More to come...
