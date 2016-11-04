@@ -16,7 +16,7 @@ including custom html, css, and Javascript.
 
 ### Open Source Project - Axelrod
 
-Ongoing contributer to __*[Axelrod]*__(https://github.com/Axelrod-Python/Axelrod) , an open source Prisoner's Dilemma research tool made in Python.
+Ongoing contributer to __*[Axelrod](https://github.com/Axelrod-Python/Axelrod)*__ , an open source Prisoner's Dilemma research tool made in Python.
 
 # Summary of Skills
 Proficient programming experience with Java, C++, Ruby, Python
