@@ -14,7 +14,7 @@ March 2016 - Mag Pharms LLC
 Contract to create ecommerce website using WordPress and Woocommerce,
 including custom html, css, and Javascript.
 
-###Open Source Project - Axelrod
+### Open Source Project - Axelrod
 
 Ongoing contributer to [Axelrod] (https://github.com/Axelrod-Python/Axelrod) , an open source Prisoner's Dilemma research tool made in Python.
 
