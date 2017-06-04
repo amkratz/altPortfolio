@@ -44,6 +44,8 @@ Glendale Community College, Glendale, AZ
 * Graduated with Associate's in Science Degree in December 2014
 * Coursework focused on Mathematics and Computer Science
 
+* Currently attending Arizona State University for BS in Software Engineering
+
 # Employment History
 
 ### Encapsulation Operator
