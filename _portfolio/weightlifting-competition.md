@@ -1,6 +1,6 @@
 ---
 title: "Weightlifting Competition in Assembly"
-excerpt: "This was a project for a class that I thought was very interesting to do."
+excerpt: "This was a project for a class that I felt was very interesting."
 sidebar:
   nav: "portfolio"
 permalink: /portfolio/weightlifting-competition
