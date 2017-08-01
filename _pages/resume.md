@@ -5,6 +5,8 @@ title: "Resume"
 author_profile: true
 ---
 {% include base_path %}
+
+
 # EDUCATION
 ### Arizona State University Tempe, AZ - December 2018
 B.S. in Software Engineering
