@@ -3,8 +3,7 @@ layout: archive
 permalink: /resume/
 author_profile: true
 ---
-### Resume
-
+### 
 # EDUCATION
 
 ### Arizona State University Tempe, AZ - December 2018
