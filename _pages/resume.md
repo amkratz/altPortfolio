@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /resume/
+title: "Resume"
 author_profile: true
 ---
 {% include base_path %}
 # EDUCATION
-
 ### Arizona State University Tempe, AZ - December 2018
 B.S. in Software Engineering
 Computer Science based degree with a focus in web development
@@ -14,7 +14,6 @@ Computer Science based degree with a focus in web development
 A.S. in Computer Science
 
 # EXPERIENCE
-
 ### Open Source Project - Axelrod
 A Prisoner's Dilemma Research Tool
 - Contributed to Axelrod, a Python library devoted to aiding in the research of the Prisoner's Dilemma
