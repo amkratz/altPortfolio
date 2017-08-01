@@ -3,71 +3,41 @@ layout: archive
 permalink: /resume/
 author_profile: true
 ---
-# Career Focus
-Passionate programmer with solid understanding and love of full-stack development and strong drive to be successful.
+# EDUCATION
 
-# Professional Experience
+### Arizona State University Tempe, AZ - December 2018
+B.S. in Software Engineering
+Computer Science based degree with a focus in web development
 
-### Freelance Web Development
-March 2016 - Mag Pharms LLC
+### Glendale Community College, Glendale, AZ
+A.S. in Computer Science
 
-Contract to create ecommerce website using WordPress and Woocommerce,
-including custom html, css, and Javascript.
+# EXPERIENCE
 
 ### Open Source Project - Axelrod
+A Prisoner's Dilemma Research Tool
+- Contributed to Axelrod, a Python library devoted to aiding in the research of the Prisoner's Dilemma
+- Written using Python language and Github for source control
 
-Ongoing contributer to __*[Axelrod](https://github.com/Axelrod-Python/Axelrod)*__ , an open source Prisoner's Dilemma research tool made in Python.
+### Mars Rover Project for Challenger Space Center
+- On team to design and create a robot to be used in a simulated Mars environment for use in missions
+led by students
+- Robot uses Raspberry Pi for function control and video stream, communicates to web server created
+to allow students robot control over the internet from their school location
+- Robot programming done with Python, uses Apache based server for communication via internet
 
-# Summary of Skills
-Proficient programming experience with Java, C++, Ruby, Python
+### Personal Projects
+- Mocha Messenger - A TCP/IP chat service using Java
+- Easy Flash - Android App to control camera flash, written using Java, and HTML/CSS
+- aaronkratz.com - A staticly generated portfolio site using Jekyll, Markdown, Liquid, and CSS
 
-Front-End experience using HTML, CSS, Javascript, WordPress, Jekyll
+### Freelance Web Design
+- Planned, designed, and deployed websites and ecommerce stores for multiple local businesses
+- Updated client websites to increase visibility and reduce load times, resulting in noticeable revenue
+increases
+- Used CMS software, mainly Wordpress and Shopify, to produce quality websites that are efficient and maintainable
+by clients
 
-Thorough understanding of Object Oriented Programming
-
-Experience using Git and GitHub
-
-Skilled with hardware and software troubleshooting and problem solving
-
-Microsoft Office, Excel, Power Point proficiency
-
-Friendly and positive team member
-
-Works well alone and in groups
-
-8 years customer service experience
-
-
-# Education
-Glendale Community College, Glendale, AZ
-
-* Graduated with Associate's in Science Degree in December 2014
-* Coursework focused on Mathematics and Computer Science
-
-Arizona State University, Tempe, AZ
-* Currently attending for BS in Software Engineering
-
-# Employment History
-
-### Encapsulation Operator
-June 2015 to September 2016 Tenkoris LLC, Phoenix, AZ
-
-* Maintain and operate supplement encapsulation machine and related equipment
-* Complete capsule formulation logs and record data during encapsulation
-* Create SOP and MMR documentation for future use in encapsulation department
-* Create supplement formulations and prepare them for encapsulation
-
-### Campus Security/Front Desk Concierge
-Oct 2010 to June 2015 - Brookdale Senior Living, Peoria, AZ
-
-* Maintain logs and input data into computer using Microsoft Excel and Word
-* Communicate with team members continually to provide 24-hour service
-* Provide customer service to residents, guests, and associates
-* Provide computer training and help with troubleshooting for residents
-
-### Document Preparation Clerk
-Apr 2010 to Jul 2010 - Vangent, Phoenix, AZ
-
-* Open and evaluate documents arriving for processing
-* Prepare documents for imaging
-* Provide accurate alphanumeric and 10-key data entry at 65+ WPM
+# LANGUAGES AND TECHNOLOGIES
+-  Java, Python, C++, Javascript, HTML, CSS
+- Eclipse, Visual Studio, Git and Github
