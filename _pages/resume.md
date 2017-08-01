@@ -3,6 +3,7 @@ layout: archive
 permalink: /resume/
 author_profile: true
 ---
+# EDUCATION
 
 ### Arizona State University Tempe, AZ - December 2018
 B.S. in Software Engineering
