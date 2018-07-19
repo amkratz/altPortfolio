@@ -8,7 +8,7 @@ author_profile: true
 
 
 # EDUCATION
-### Arizona State University Tempe, AZ - December 2018
+### Arizona State University Tempe, AZ - December 2019
 B.S. in Software Engineering
 Computer Science based degree with a focus in web development
 
@@ -41,5 +41,5 @@ increases
 by clients
 
 # LANGUAGES AND TECHNOLOGIES
--  Java, Python, C++, Javascript, HTML, CSS
-- Eclipse, Visual Studio, Git and Github
+-  Java, Python, C/C++, Javascript, HTML, CSS
+- Eclipse, Visual Studio, Git
