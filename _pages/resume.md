@@ -45,7 +45,8 @@ by clients
 - Eclipse, Visual Studio, Git
 
 
-#View Resume as PDF
+# View Resume as PDF
+
 <div id="resume link" markdown="1">
   <object data="resume.pdf" type="application/pdf" width="100%" height="100%">
   <p>PDF of the most recent copy of my <a href="/_portfolio/resume.pdf">resume</a></p>
