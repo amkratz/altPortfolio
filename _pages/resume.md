@@ -47,11 +47,8 @@ by clients
 
 # View Resume as PDF
 
-<html>
-  <body>
-      <div id="resume link" markdown="1">
-        <object data="resume.pdf" type="application/pdf" width="100%" height="100%">
-        <p>PDF of the most recent copy of my <a href="/_portfolio/resume.pdf">resume</a></p>
-      </div>
-  </body>
-</html>
+<object data="/_portfolio/resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/_portfolio/resume.pdf">
+      <p> This is a PDF of my most recent <a href="/_portfolio/resume.pdf"resume</a></p>
+    </embed>
+</object>
