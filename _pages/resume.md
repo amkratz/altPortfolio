@@ -10,6 +10,6 @@ author_profile: true
 
 <object data="/_portfolio/resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/_portfolio/resume.pdf">
-      <p> This is a PDF of my most recent <a href="/_portfolio/resume.pdf"resume</a></p>
+      <p> This is a PDF of my most recent <a href="/_portfolio/resume.pdf">resume</a></p>
     </embed>
 </object>
