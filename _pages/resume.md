@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-### View my resume as of Sep 2018
+### View my resume as of Nov 2018
 
 <object data="/_portfolio/resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/_portfolio/resume.pdf">
