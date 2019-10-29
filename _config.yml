@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Aaron Kratz"
   avatar           : "https://avatars1.githubusercontent.com/u/22185186?v=3&u=10e3f7e9fa011e04380480af08893ba7b9e4b668&s=140"
-  bio              : "I am an aspiring software developer in love with programming, looking for work developing amazing software."
+  bio              : "I am a software engineer looking to exceed expectations on interesting projects."
   location         : "Phoenix, Arizona"
   email            : "akratz2@gmail.com"
   uri              :
@@ -87,14 +87,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "aaron.kratz1"
+  facebook         : 
   foursquare       :
   github           : "amkratz"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "aaron-kratz"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
