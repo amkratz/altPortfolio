@@ -10,15 +10,11 @@ main:
     url: /resume/
 
 portfolio:
-  - title: "Open Source"
+  - title: "Portfolio"
     children:
     - title: "Axelrod"
       url: /portfolio/Axelrod
-  - title: "Portfolio"
-    children:
-    - title: "EasyFlash"
-      url: /portfolio/easy-flash
-      text: "My Android flashlight app"
+      text: "My contribution to open source research project, Axelrod"
     - title: "Mocha Messenger"
       url: /portfolio/mocha-messenger
       text: "A minimal, Java based chat messenger."
