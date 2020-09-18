@@ -22,3 +22,9 @@ portfolio:
     - title: "Mocha Messenger"
       url: /portfolio/mocha-messenger
       text: "A minimal, Java based chat messenger."
+    - title: "Sakai LMS Progress Tool"
+      url: /portfolio/Sakai
+      text: "A progress tracker for Sakai LMS"
+    - title: "Memoranda GitGet"
+      url: /portfolio/MemorandaGitGet
+      text: "Github API module for Open Source Agenda Software"
